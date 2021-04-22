@@ -17,7 +17,6 @@ class JokeListViewController: UITableViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        view.backgroundColor = .white
         title = "Chuck Norris Jokes"
         reload()
     }
