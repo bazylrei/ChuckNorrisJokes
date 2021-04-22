@@ -1,0 +1,34 @@
+{
+  "type": "success",
+  "value": [
+    {
+      "id": 468,
+      "joke": "Chuck Norris's beard can type 140 wpm.",
+      "categories": [
+        "nerdy"
+      ]
+    },
+    {
+      "id": 362,
+      "joke": "Chuck Norris can do a roundhouse kick faster than the speed of light. This means that if you turn on a light switch, you will be dead before the lightbulb turns on.",
+      "categories": []
+    },
+    {
+      "id": 513,
+      "joke": "Chuck Norris does not code in cycles, he codes in strikes.",
+      "categories": [
+        "nerdy"
+      ]
+    },
+    {
+      "id": 294,
+      "joke": "Jean-Claude Van Damme once kicked Chuck Norris' ass. He was then awakened from his dream by a roundhouse kick to the face.",
+      "categories": []
+    },
+    {
+      "id": 295,
+      "joke": "The pie scene in &quot;American Pie&quot; is based on a dare Chuck Norris took when he was younger. However, in Chuck Norris' case, the &quot;pie&quot; was the molten crater of an active volcano.",
+      "categories": []
+    }
+  ]
+}
